@@ -1,0 +1,19 @@
+{
+
+	"color_scheme": "Packages/Colorcoder/Carbonight (Colorcoded).tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Vintage"
+	],
+	"line_padding_top": 5,
+	"original_color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Contrast/Carbonight.tmTheme",
+	"rulers":
+	[
+		80
+	],
+	"theme": "Material-Theme.sublime-theme"
+
+}

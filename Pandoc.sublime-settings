@@ -1,0 +1,5 @@
+{
+  "default": {
+    "pandoc-path": "/usr/bin/pandoc"
+  }
+}

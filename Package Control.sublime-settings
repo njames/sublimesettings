@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoSpell",
+		"Base Encoder",
+		"Base64 Fold",
+		"BracketHighlighter",
+		"Colorcoder",
+		"Colorsublime",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Emmet",
+		"Facebook Material Theme",
+		"GitSavvy",
+		"HTMLBeautify",
+		"Indent XML",
+		"Jade",
+		"JavaScript & Coffeescript Build Systems",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pandoc",
+		"PHP Companion",
+		"Pretty JSON"
+	]
+}
